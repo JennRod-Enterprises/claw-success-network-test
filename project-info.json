@@ -1,0 +1,22 @@
+{
+  "projectName": "claw-success-network-test",
+  "cleanedName": "claw-success-network-test",
+  "github": {
+    "owner": "JennRod-Enterprises",
+    "repo": "claw-success-network-test",
+    "fullName": "JennRod-Enterprises/claw-success-network-test",
+    "visibility": "public",
+    "isOrganization": false,
+    "isNew": true,
+    "url": "https://github.com/JennRod-Enterprises/claw-success-network-test"
+  },
+  "vercel": {
+    "projectId": "prj_Hdsz8FeBAWeKqHnFxZIYF4wf8y0G",
+    "projectName": "claw-success-network-test",
+    "scope": "Jenn Rod",
+    "teamId": "team_zZ74tgALWfTSynFB5dVdlLZd",
+    "isNew": true
+  },
+  "linkedAt": "2026-04-10",
+  "status": "ready"
+}
